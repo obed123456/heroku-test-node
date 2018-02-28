@@ -1,0 +1,10 @@
+------Node server---------------
+Starta node server genom att gå in på Mapp "node-api" via Gitbash 
+
+Skriv node server.js 
+
+------DB--------
+Skapa en databas som heter. latlng... tabellnamn också latlng.
+Annars matain db fil in i sql så får ni färdig tabell. 
+
+
